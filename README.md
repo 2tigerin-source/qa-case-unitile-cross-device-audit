@@ -106,8 +106,7 @@ and the discipline to re-examine a "failing" form before reporting it.
 |:---:|:---:|
 | ![Mobile submit success](screenshots/01-mobile-submit-success.png) | ![Desktop phone red](screenshots/02-desktop-phone-validation.png) |
 
-- [03-react-hydration-418.png](screenshots/03-react-hydration-418.png) — React #418 on Quality Control page
-- [04-react-hydration-423.png](screenshots/04-react-hydration-423.png) — React #423 same page
+- [03-react-hydration-418.png](screenshots/03-react-hydration-418&423.png) — React #418 & #423 on Quality Control page
 - [05-mobile-garbage-email.png](screenshots/05-mobile-garbage-email.png) — invalid email in required field
 
 ---
